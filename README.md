@@ -1,1 +1,0 @@
-# simulador-filas-tandem
